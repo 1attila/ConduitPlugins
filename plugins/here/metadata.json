@@ -3,10 +3,10 @@
     "authors": ["1attila"],
     "url": "",
     "entrypoint": "here.py",
-    "required_plugins": ["pygtail"],
+    "required_plugins": [],
     "version": "0.0.1",
     "description": "Displays player position",
-    "dependencies": [],
+    "dependencies": ["pygtail"],
     "python_version": "",
     "supported_langs": ["en_us"]
 }
