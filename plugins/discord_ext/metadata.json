@@ -1,0 +1,13 @@
+{   
+    "name": "discord_ext",
+    "authors": ["1attila"],
+    "url": "",
+    "documentation": "",
+    "entrypoint": "discord_ext.py",
+    "required_plugins": [],
+    "version": "0.0.1",
+    "description": "Utility plugin to broadcast between Minecraft and discord ",
+    "dependencies": ["discord"],
+    "python_version": "",
+    "supported_langs": ["en_us"]
+}
