@@ -1,0 +1,13 @@
+{
+    "name": "pos_memo",
+    "authors": ["1attila"],
+    "url": "",
+    "documentation": "",
+    "entrypoint": "pos_memo.py",
+    "required_plugins": [],
+    "version": "0.0.1",
+    "description": "Memorizes the player position and rotation",
+    "dependencies": [],
+    "python_version": "",
+    "supported_langs": ["en_us"]
+}
