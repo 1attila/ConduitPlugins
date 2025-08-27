@@ -1,0 +1,13 @@
+{
+    "name": "math_utils",
+    "authors": ["1attila"],
+    "url": "",
+    "documentation": "",
+    "entrypoint": "math.py",
+    "required_plugins": [],
+    "version": "0.0.3",
+    "description": "Math utils",
+    "dependencies": ["simpleeval"],
+    "python_version": "",
+    "supported_langs": ["en_us"]
+}
