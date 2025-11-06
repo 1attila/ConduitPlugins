@@ -1,0 +1,13 @@
+{   
+    "name": "status",
+    "authors": ["1attila"],
+    "url": "",
+    "documentation": "",
+    "entrypoint": "status.py",
+    "required_plugins": [],
+    "version": "0.0.0",
+    "description": "Fetches the status of any machine",
+    "dependencies": [],
+    "python_version": "",
+    "supported_langs": ["en_us"]
+}
