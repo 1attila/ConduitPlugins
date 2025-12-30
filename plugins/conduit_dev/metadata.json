@@ -1,0 +1,12 @@
+{   
+    "name": "conduit_dev",
+    "authors": ["1attila"],
+    "url": "",
+    "entrypoint": "conduit_dev.py",
+    "required_plugins": [],
+    "version": "0.0.3",
+    "description": "Utilities for plugin developers",
+    "dependencies": ["watchdog"],
+    "python_version": "",
+    "supported_langs": ["en_us"]
+}

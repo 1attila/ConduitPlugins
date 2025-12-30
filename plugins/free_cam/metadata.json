@@ -1,0 +1,13 @@
+{
+    "name": "free_cam",
+    "authors": ["1attila"],
+    "url": "",
+    "documentation": "",
+    "entrypoint": "free_cam.py",
+    "required_plugins": [],
+    "version": "0.0.6",
+    "description": "Equivalent to /cs",
+    "dependencies": [],
+    "python_version": "",
+    "supported_langs": ["en_us"]
+}

@@ -1,0 +1,13 @@
+{   
+    "name": "tp_utils",
+    "authors": ["1attila"],
+    "url": "",
+    "documentation": "",
+    "entrypoint": "tp_utils.py",
+    "required_plugins": [],
+    "version": "0.0.0",
+    "description": "Tp utilities",
+    "dependencies": [],
+    "python_version": "",
+    "supported_langs": ["en_us"]
+}
