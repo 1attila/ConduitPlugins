@@ -7,7 +7,7 @@
     "required_plugins": [],
     "version": "0.0.0",
     "description": "Renders a picture as it was taken directly in-game",
-    "dependencies": ["Pillow", "modergl==5.12.0", "numpy"],
+    "dependencies": ["Pillow", "moderngl", "numpy"],
     "python_version": "",
     "supported_langs": ["en_us"]
 }
