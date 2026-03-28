@@ -1,0 +1,20 @@
+{
+    "name": "picture_loader",
+    "authors": [
+        "1attila"
+    ],
+    "url": "",
+    "documentation": "",
+    "entrypoint": "picture_loader.py",
+    "required_plugins": [],
+    "version": "0.0.2",
+    "description": "Displays realistic pictures in-game",
+    "dependencies": [
+        "Pillow",
+        "numpy"
+    ],
+    "python_version": "",
+    "supported_langs": [
+        "en_us"
+    ]
+}

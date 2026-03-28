@@ -1,0 +1,13 @@
+{   
+    "name": "screenshot",
+    "authors": ["1attila"],
+    "url": "",
+    "documentation": "",
+    "entrypoint": "__init__.py",
+    "required_plugins": [],
+    "version": "0.0.0",
+    "description": "Renders a picture as it was taken directly in-game",
+    "dependencies": ["Pillow", "modergl", "numpy"],
+    "python_version": "",
+    "supported_langs": ["en_us"]
+}

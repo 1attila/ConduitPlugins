@@ -1,0 +1,13 @@
+{   
+    "name": "notes",
+    "authors": ["1attila"],
+    "url": "",
+    "documentation": "",
+    "entrypoint": "notes.py",
+    "required_plugins": [],
+    "version": "0.0.0",
+    "description": "Simple notes manager",
+    "dependencies": [],
+    "python_version": "",
+    "supported_langs": ["en_us"]
+}
